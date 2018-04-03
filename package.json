@@ -1,0 +1,23 @@
+{
+  "name": "email-survey-app",
+  "version": "1.0.0",
+  "description": "Web app that sends survey emails to listed users.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvaldillez/email-survey-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvaldillez/email-survey-app/issues"
+  },
+  "homepage": "https://github.com/kvaldillez/email-survey-app#readme"
+}
